@@ -1,0 +1,3 @@
+// namespace
+
+Vex.Flow.Parser = {};
